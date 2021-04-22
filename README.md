@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @someonesees
+- 👋 Hi, I’m Prashant Tiwari
 - 👀 I’m interested in competative programing and Software Development
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on App Developmemt.
