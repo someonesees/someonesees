@@ -9,6 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ...He/Him
+- 📬 How to reach me: <a href="mailto:tiwariprashant_@outlook.com">Let's get in touch!</a>
 - ⚡ Fun fact: I love to play video games / Guitar
 
 ### Spotify Playing 🎧
