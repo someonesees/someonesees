@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with App Development Project
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about ... Anything
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: I love to play video games / Guitar
 
 ### Spotify Playing 🎧
