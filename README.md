@@ -56,6 +56,8 @@
 
 ---
 
+  <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
+  
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
