@@ -12,6 +12,10 @@
 - 📬 How to reach me: <a href="mailto:tiwariprashant_@outlook.com">Let's get in touch!</a>
 - ⚡ Fun fact: I love to play video games / Guitar
 
+<b>You can site my portfolio:<b> https://someonesees.github.io/prashant/
+
+
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prashant Tiwari Spotify Playing" width="350" />](https://open.spotify.com/playlist/4jgpyIsj8MGszuF2ZK0Ej2?si=7ca77420cfe644b8)
