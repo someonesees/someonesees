@@ -7,13 +7,14 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with App Development Project
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 💬 Ask me about ... Anything
 - ⚡ Fun fact: I love to play video games / Guitar
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prashant Tiwari Spotify Playing" width="350" />](https://open.spotify.com/playlist/4jgpyIsj8MGszuF2ZK0Ej2?si=7ca77420cfe644b8)
 
-### Connect with me:
+### Connect with me, I am kinda awesome:
 
 
 [<img align="left" alt="someonesees | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
