@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant Tiwari 👋
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 ## I'm a Electronic Engineer and Developer!!
 
