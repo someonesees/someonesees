@@ -70,6 +70,13 @@
 <!--END_SECTION:activity-->
 
 </details>
+  
+  <details>
+  <summary>:zap: Github Stats</summary> 
+
+![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=someonesees&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someonesees&layout=compact&theme=radical)
+</details>
 
 
 
